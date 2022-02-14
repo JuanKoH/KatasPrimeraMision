@@ -1,2 +1,2 @@
 # KatasPrimeraMision
- Ejercicios de la Primera Semana Launc X
+ Ejercicios de la Primera Semana Launch X
